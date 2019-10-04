@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/anegramotnov/firebird_test_framework.svg?branch=master)](https://travis-ci.org/anegramotnov/firebird_test_framework)
+
 # Прототип тестового фреймворка для хранимых процедур Firebird
 
 Позволяет изолированно протестировать хранимую процедуру, подменяя 
