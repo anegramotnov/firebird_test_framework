@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/anegramotnov/firebird_test_framework.svg?branch=master)](https://travis-ci.org/anegramotnov/firebird_test_framework)
+[![codecov](https://codecov.io/gh/anegramotnov/firebird_test_framework/branch/master/graph/badge.svg)](https://codecov.io/gh/anegramotnov/firebird_test_framework)
+
 
 # Прототип тестового фреймворка для хранимых процедур Firebird
 
