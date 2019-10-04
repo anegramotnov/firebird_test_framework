@@ -1,0 +1,12 @@
+language: python
+python:
+    - "3.7"
+
+install:
+    - pip install -r requirements.txt
+
+script:
+    - python -m pytest tests --cov=firebird_mock --cov-report=term
+
+after_success:
+    - codecov
